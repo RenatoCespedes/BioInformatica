@@ -1,6 +1,6 @@
 # BioInformatica
 Este repositorio es para el curso de Bioinformatica.
-###Integrantes
+##Integrantes
 1. Renato Cespedes Fuentes
 2. Miguel Hermoza Loayza
 3. Jaime Torres Rodriguez
